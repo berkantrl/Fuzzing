@@ -1,0 +1,5 @@
+/admin/
+/admin.php
+/contact/
+/root
+/dvwa/
